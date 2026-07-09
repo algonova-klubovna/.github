@@ -52,18 +52,22 @@ Každý projekt má vlastní složku s návodem, úkolem a ukázkovým řešení
 Každý repozitář v organizaci **algonova-klubovna** bude mít jednotnou strukturu:
 
 ```
-/projekty
-/tyden-01
-/tyden-02
-...
-/reseni
-/tyden-01
-/tyden-02
-...
-/materialy
-ikony, obrázky, podklady
-/readme-assets
-obrázky pro README
+├── projekty/
+│   ├── tyden-01/
+│   ├── tyden-02/
+│   ├── tyden-03/
+│   ├── tyden-04/
+│   ├── tyden-05/
+│   └── ...
+├── reseni/
+│   ├── tyden-01/
+│   ├── tyden-02/
+│   ├── tyden-03/
+│   ├── tyden-04/
+│   ├── tyden-05/
+│   └── ...
+├── materialy/
+└── readme-assets/
 ```
 
 Popis:
