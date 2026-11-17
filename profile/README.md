@@ -54,6 +54,8 @@ Uvnitř najde:
 
 > Detailní návody pro studenty jsou dostupné v samostatném repozitáři **studenti-guides**.
 
+Kromě týdenních výzev organizace slouží i pro **závěrečné skupinové projekty** kurzů.
+
 ---
 
 ## 📁 Co najdete v této organizaci
